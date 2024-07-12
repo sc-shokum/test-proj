@@ -1,3 +1,0 @@
-[submodule "test-repository"]
-	path = test-repository
-	url = https://github.com/rmccue/test-repository.git
